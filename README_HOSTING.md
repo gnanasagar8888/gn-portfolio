@@ -1,0 +1,1 @@
+# GitHub Hosting\n1.Create repo.\n2.Upload files.\n3.Add profile.jpg and resume.pdf.\n4.Settings>Pages>Deploy from branch>main/(root).\n5.Site: https://USERNAME.github.io/REPO/

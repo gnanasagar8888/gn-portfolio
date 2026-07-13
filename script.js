@@ -1,0 +1,1 @@
+const w=['AI Systems','Web Apps','ML Projects','Real Solutions'];let i=0;setInterval(()=>{i=(i+1)%w.length;document.getElementById('word').textContent=w[i]},1800);window.addEventListener('scroll',()=>{let s=document.documentElement.scrollTop;let h=document.documentElement.scrollHeight-innerHeight;document.querySelector('.progress').style.width=(s/h*100)+'%';});
